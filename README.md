@@ -2,7 +2,7 @@
 
 A small Ubuntu-friendly desktop chatbot built with PySide6 and a local Ollama backend.
 
-** Key Note** 100% vibe coded in a slow morning
+** Key Note ** 100% vibe coded in a slow morning
 
 ### Features
 - **Compact popup-style chat window** that stays on top.
