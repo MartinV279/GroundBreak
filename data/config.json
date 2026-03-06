@@ -1,0 +1,10 @@
+{
+  "model": "qwen3.5:4b",
+  "temperature": 0.3,
+  "debug": true,
+  "window_title": "Ollama Desktop Chat",
+  "max_tool_output_chars": 4000,
+  "mcp_enabled": false,
+  "mcp_command": null,
+  "mcp_args": []
+}

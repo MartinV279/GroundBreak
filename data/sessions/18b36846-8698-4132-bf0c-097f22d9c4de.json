@@ -1,0 +1,18 @@
+{
+  "id": "18b36846-8698-4132-bf0c-097f22d9c4de",
+  "name": "New chat",
+  "created_at": 1772807349.3696337,
+  "updated_at": 1772807360.8788111,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hi!"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I help you today?"
+    }
+  ],
+  "scope_type": "general",
+  "scope_id": null
+}
